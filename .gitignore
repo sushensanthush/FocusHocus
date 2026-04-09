@@ -1,0 +1,17 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environments
+.venv/
+venv/
+env/
+ENV/
+
+# Local configuration (if you want to keep your personal intervals private)
+config.py
+
+# Editor settings
+.vscode/
+.idea/
