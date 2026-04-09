@@ -18,7 +18,7 @@
 * **One-Click Install:** Distributed via a professional Windows Installer.
 
 * <div align="center">
-  <img src="screenshot.png" alt="Focus Hocus App Interface" width="600">
+  <img src="Screenshot.png" alt="Focus Hocus App Interface" width="600">
   <p><i>The sleek, modern interface of Focus Hocus in action.</i></p>
 </div>
 
