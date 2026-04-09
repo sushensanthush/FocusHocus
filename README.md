@@ -1,6 +1,5 @@
 <div align="center">
   <img src="icon.ico" alt="Focus Hocus Logo" width="128">
-  <h1>🪄 Focus Hocus</h1>
   <p><b>Magically transforming your screen time habits.</b></p>
   
   [![Version](https://img.shields.io/badge/version-1.0.0-blueviolet)](https://github.com/SushenSanthush/Focus-Hocus)
