@@ -17,8 +17,8 @@
 * **Smart Notifications:** Uses system-level alerts to minimize distractions.
 * **One-Click Install:** Distributed via a professional Windows Installer.
 
-* <div align="center">
-  <img src="screenshot.png" alt="Focus Hocus App Interface" width="600">
+<div align="center">
+  <img src="screenshot.png" alt="Focus Hocus App Interface" width="400">
   <p><i>The sleek, modern interface of Focus Hocus in action.</i></p>
 </div>
 
